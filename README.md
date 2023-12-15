@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Olamidotun
-- 👀 I’m interested in Full stack web development 
-- 🌱 I’m currently a frontend developer(react, tailwind, bootstrap, javaScript) and a react native developer
-- 💞️ I’m looking to collaborate on any front-end development project and react native projects
+- 👀 I’m a MERN stack web development 
+- 🌱 I’m also a frontend developer(react, tailwind, bootstrap, javaScript) and a react native developer
+- 💞️ I’m looking to collaborate on any front-end && back-end development project and react native projects
 - 📫 You can reach me on my Gmail: olamidotun225@gmail.com.
 
 <!---
