@@ -1,16 +1,23 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/110784160?v=4" width="150" height="150" style="border-radius: 50%;" alt="Dotun's Avatar" />
+</p>
+
 # 💫 About Me:
 Hi there, I'm Dotun! 👋<br><br>
 I'm a Fullstack & React Native Developer with ~4 years of experience building scalable web and mobile applications.<br>
 I specialize in backend architecture, frontend performance, mobile app development, and cloud deployments.<br><br>
+Currently exploring **Machine Learning**, and excited to merge intelligent systems into real-world products.<br><br>
 I’m passionate about building real-world solutions, optimizing developer workflows, and delivering seamless user experiences.
 
 [![Available for Freelance](https://img.shields.io/badge/Freelance-Available-brightgreen?style=flat&logo=upwork)](mailto:olamidotun225@gmail.com)
+[![Fiverr](https://img.shields.io/badge/Fiverr-D5F900?style=flat&logo=fiverr&logoColor=black)](https://www.fiverr.com/)
 
 ## 🛠 Key Strengths:
 - Fullstack development with **NestJS**, **GraphQL**, **React Native**, and **Next.js**
 - Real-time systems using **WebSockets**, **Redis**, and **BetterAuth**
 - Mobile-first development with **Expo**, **Push Notifications**, and **AsyncStorage**
 - Cloud deployments using **Docker**, **CI/CD**, and **DigitalOcean**
+- Beginner-level ML with **Python**, **NumPy**, **Pandas**, **Scikit-Learn**, and **Jupyter Notebooks**
 
 ---
 
@@ -22,6 +29,8 @@ I’m passionate about building real-world solutions, optimizing developer workf
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iyanda-olamidotun-531399257)
 
 # 💻 Tech Stack:
+
+### 🔧 Core Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
@@ -37,6 +46,13 @@ I’m passionate about building real-world solutions, optimizing developer workf
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+### 🧠 Machine Learning (Beginner):
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)
 
 # 📦 Notable Projects:
 - **SphereX** (SmartHive) – A mobile app with real-time updates and analytics
