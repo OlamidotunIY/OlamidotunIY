@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/110784160?v=4" width="150" height="150" style="border-radius: 50%;" alt="Dotun's Avatar" />
-</p>
-
 # 💫 About Me:
 Hi there, I'm Dotun! 👋<br><br>
 I'm a Fullstack & React Native Developer with ~4 years of experience building scalable web and mobile applications.<br>
