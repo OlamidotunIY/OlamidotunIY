@@ -58,7 +58,7 @@ Building resilient software through **Domain-Driven Design** and **Enterprise In
 
 <tr>
 
-<td width="56%" valign="top">
+<td width="50%" >
 
 ### Engineering Profile
 
@@ -79,7 +79,7 @@ Building resilient software through **Domain-Driven Design** and **Enterprise In
 
 </td>
 
-<td width="44%" valign="top">
+<td width="50%" valign="top">
 
 ### What I Build
 
