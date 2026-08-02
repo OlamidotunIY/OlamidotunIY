@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="380" viewBox="0 0 900 380">
+  <defs>
+    <linearGradient id="winBorder2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+    <filter id="glow2" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="378" rx="14" fill="#0d1117" stroke="url(#winBorder2)" stroke-width="1.5"/>
+  <rect x="1" y="1" width="898" height="40" rx="14" fill="#161b22"/>
+  <rect x="1" y="27" width="898" height="14" fill="#161b22"/>
+
+  <circle cx="30" cy="21" r="6.5" fill="#ff5f56"/>
+  <circle cx="52" cy="21" r="6.5" fill="#ffbd2e"/>
+  <circle cx="74" cy="21" r="6.5" fill="#27c93f"/>
+
+  <text x="450" y="26" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#8b949e">dotun@backend — zsh</text>
+
+  <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15">
+
+    <text x="40" y="72" fill="#e6edf3"><tspan fill="#3fb950">$</tspan> registry discover</text>
+
+    <text x="40" y="108" fill="#8b949e">Scanning available endpoints...</text>
+
+    <text x="40" y="150" fill="#e6edf3"><tspan fill="#3fb950">✓</tspan> github.service<tspan fill="#30363d">.................</tspan> <tspan fill="#3fb950">ONLINE</tspan></text>
+    <text x="40" y="174" fill="#e6edf3"><tspan fill="#3fb950">✓</tspan> linkedin.service<tspan fill="#30363d">...............</tspan> <tspan fill="#3fb950">ONLINE</tspan></text>
+    <text x="40" y="198" fill="#e6edf3"><tspan fill="#3fb950">✓</tspan> x.service<tspan fill="#30363d">.......................</tspan> <tspan fill="#3fb950">ONLINE</tspan></text>
+    <text x="40" y="222" fill="#e6edf3"><tspan fill="#3fb950">✓</tspan> email.service<tspan fill="#30363d">..................</tspan> <tspan fill="#3fb950">ONLINE</tspan></text>
+
+    <line x1="40" y1="248" x2="860" y2="248" stroke="#21262d" stroke-width="1"/>
+
+    <text x="40" y="282" fill="#58a6ff" font-weight="bold" filter="url(#glow2)">4 healthy services discovered.</text>
+
+  </g>
+
+  <rect x="41" y="308" width="9" height="14" fill="#58a6ff">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+</svg>

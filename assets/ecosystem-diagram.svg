@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560">
+  <defs>
+    <style>
+      .lbl { font-family:'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+    </style>
+  </defs>
+
+  <rect width="900" height="560" rx="16" fill="#0d1117"/>
+
+  <text x="450" y="34" text-anchor="middle" class="lbl" font-size="13" letter-spacing="3" fill="#8b949e">ENGINEERING ECOSYSTEM</text>
+
+  <!-- Users node -->
+  <rect x="380" y="52" width="140" height="38" rx="19" fill="#161b22" stroke="#30363d"/>
+  <text x="450" y="76" text-anchor="middle" class="lbl" font-size="14" fill="#e6edf3">Users</text>
+
+  <!-- Distribution lines -->
+  <line x1="450" y1="90" x2="450" y2="108" stroke="#30363d" stroke-width="1.5"/>
+  <line x1="170" y1="108" x2="730" y2="108" stroke="#30363d" stroke-width="1.5"/>
+  <line x1="170" y1="108" x2="170" y2="124" stroke="#30363d" stroke-width="1.5"/>
+  <line x1="450" y1="108" x2="450" y2="124" stroke="#30363d" stroke-width="1.5"/>
+  <line x1="730" y1="108" x2="730" y2="124" stroke="#30363d" stroke-width="1.5"/>
+
+  <!-- Project boxes -->
+  <rect x="60" y="124" width="220" height="50" rx="8" fill="#161b22" stroke="#3b82f6" stroke-width="1.5"/>
+  <text x="170" y="155" text-anchor="middle" class="lbl" font-size="16" font-weight="bold" fill="#3b82f6">ERRANDY</text>
+
+  <rect x="340" y="124" width="220" height="50" rx="8" fill="#161b22" stroke="#0ea5e9" stroke-width="1.5"/>
+  <text x="450" y="155" text-anchor="middle" class="lbl" font-size="16" font-weight="bold" fill="#0ea5e9">ATLASPAY</text>
+
+  <rect x="620" y="124" width="220" height="50" rx="8" fill="#161b22" stroke="#6366f1" stroke-width="1.5"/>
+  <text x="730" y="155" text-anchor="middle" class="lbl" font-size="16" font-weight="bold" fill="#6366f1">VENTRA</text>
+
+  <!-- Spine connectors -->
+  <line x1="170" y1="174" x2="170" y2="454" stroke="#21262d" stroke-width="1.5"/>
+  <line x1="450" y1="174" x2="450" y2="454" stroke="#21262d" stroke-width="1.5"/>
+  <line x1="730" y1="174" x2="730" y2="454" stroke="#21262d" stroke-width="1.5"/>
+
+  <!-- Errandy stack -->
+  <g class="lbl" font-size="13">
+    <rect x="70" y="196" width="200" height="30" rx="15" fill="#0d1117" stroke="#30363d"/>
+    <text x="170" y="216" text-anchor="middle" fill="#c9d1d9">Marketplace Core</text>
+
+    <rect x="70" y="242" width="200" height="30" rx="15" fill="#0d1117" stroke="#30363d"/>
+    <text x="170" y="262" text-anchor="middle" fill="#c9d1d9">DDD + EIP</text>
+
+    <rect x="70" y="288" width="200" height="30" rx="15" fill="#0d1117" stroke="#30363d"/>
+    <text x="170" y="308" text-anchor="middle" fill="#c9d1d9">Domain Events</text>
+
+    <rect x="70" y="334" width="200" height="30" rx="15" fill="#0d1117" stroke="#30363d"/>
+    <text x="170" y="354" text-anchor="middle" fill="#c9d1d9">Escrow</text>
+
+    <rect x="70" y="380" width="200" height="30" rx="15" fill="#0d1117" stroke="#3b82f6"/>
+    <text x="170" y="400" text-anchor="middle" fill="#3b82f6">PostgreSQL</text>
+
+    <rect x="70" y="426" width="200" height="30" rx="15" fill="#0d1117" stroke="#3b82f6"/>
+    <text x="170" y="446" text-anchor="middle" fill="#3b82f6">Redis</text>
+  </g>
+
+  <!-- AtlasPay stack -->
+  <g class="lbl" font-size="13">
+    <rect x="350" y="196" width="200" height="30" rx="15" fill="#0d1117" stroke="#30363d"/>
+    <text x="450" y="216" text-anchor="middle" fill="#c9d1d9">Payment Engine</text>
+
+    <rect x="350" y="242" width="200" height="30" rx="15" fill="#0d1117" stroke="#30363d"/>
+    <text x="450" y="262" text-anchor="middle" fill="#c9d1d9">Double Ledger</text>
+
+    <rect x="350" y="288" width="200" height="30" rx="15" fill="#0d1117" stroke="#30363d"/>
+    <text x="450" y="308" text-anchor="middle" fill="#c9d1d9">Idempotency</text>
+
+    <rect x="350" y="334" width="200" height="30" rx="15" fill="#0d1117" stroke="#30363d"/>
+    <text x="450" y="354" text-anchor="middle" fill="#c9d1d9">Reconciliation</text>
+
+    <rect x="350" y="380" width="200" height="30" rx="15" fill="#0d1117" stroke="#0ea5e9"/>
+    <text x="450" y="400" text-anchor="middle" fill="#0ea5e9">PostgreSQL</text>
+
+    <rect x="350" y="426" width="200" height="30" rx="15" fill="#0d1117" stroke="#0ea5e9"/>
+    <text x="450" y="446" text-anchor="middle" fill="#0ea5e9">Background Jobs</text>
+  </g>
+
+  <!-- Ventra stack -->
+  <g class="lbl" font-size="13">
+    <rect x="630" y="196" width="200" height="30" rx="15" fill="#0d1117" stroke="#30363d"/>
+    <text x="730" y="216" text-anchor="middle" fill="#c9d1d9">ERP / Commerce</text>
+
+    <rect x="630" y="242" width="200" height="30" rx="15" fill="#0d1117" stroke="#30363d"/>
+    <text x="730" y="262" text-anchor="middle" fill="#c9d1d9">DDD + EIP</text>
+
+    <rect x="630" y="288" width="200" height="30" rx="15" fill="#0d1117" stroke="#30363d"/>
+    <text x="730" y="308" text-anchor="middle" fill="#c9d1d9">Domain Events</text>
+
+    <rect x="630" y="334" width="200" height="30" rx="15" fill="#0d1117" stroke="#30363d"/>
+    <text x="730" y="354" text-anchor="middle" fill="#c9d1d9">gRPC SDK</text>
+
+    <rect x="630" y="380" width="200" height="30" rx="15" fill="#0d1117" stroke="#6366f1"/>
+    <text x="730" y="400" text-anchor="middle" fill="#6366f1">PostgreSQL</text>
+
+    <rect x="630" y="426" width="200" height="30" rx="15" fill="#0d1117" stroke="#6366f1"/>
+    <text x="730" y="446" text-anchor="middle" fill="#6366f1">Kafka</text>
+  </g>
+
+  <text x="450" y="500" text-anchor="middle" class="lbl" font-size="13" fill="#8b949e">Three systems, one architectural philosophy: domain-first, event-driven, ledger-backed.</text>
+
+</svg>

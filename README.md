@@ -44,31 +44,7 @@ Building resilient software through **Domain-Driven Design** and **Enterprise In
 
 <div align="center">
 
-```text
-$ sudo systemctl start dotun.service
-
-Initializing Runtime......................... ✓
-Loading TypeScript........................... ✓
-Loading Java................................. ✓
-
-Starting NestJS.............................. ✓
-Loading Domain Layer......................... ✓
-Registering Aggregates....................... ✓
-Building Dependency Graph.................... ✓
-
-Connecting PostgreSQL......................... ✓
-Connecting Redis.............................. ✓
-Registering Event Bus......................... ✓
-Starting Background Workers................... ✓
-
----------------------------------------------------
-
-Status             ONLINE
-Role               Backend Engineer
-Architecture       DDD • EIP • Event Driven
-Mission            Build systems that survive scale.
-Current Focus      Payment Infrastructure & Distributed Systems
-```
+<img src="./assets/terminal-runtime.svg" width="100%" alt="Backend runtime terminal"/>
 
 </div>
 
@@ -86,27 +62,20 @@ Current Focus      Payment Infrastructure & Distributed Systems
 
 ### Engineering Profile
 
-```yaml
-name: Dotun
-experience: 3+ years
+| | |
+|---|---|
+| **Role** | Backend Engineer |
+| **Experience** | 3+ years |
+| **Mission** | Design backend systems that remain reliable, scalable, and maintainable as products evolve |
 
-specialization:
-  - Backend Architecture
-  - Domain Driven Design
-  - Enterprise Integration Patterns
-  - Event Driven Systems
-  - Payment Infrastructure
-  - Distributed Applications
+**Specialization**
 
-currently_learning:
-  - Java (deepening)
-  - Distributed Computing
-  - Algorithms & Data Structures
+<img src="https://img.shields.io/badge/-Backend%20Architecture-161b22?style=flat-square&color=1f2937"/> <img src="https://img.shields.io/badge/-Domain%20Driven%20Design-161b22?style=flat-square&color=1f2937"/> <img src="https://img.shields.io/badge/-Enterprise%20Integration%20Patterns-161b22?style=flat-square&color=1f2937"/>
+<img src="https://img.shields.io/badge/-Event%20Driven%20Systems-161b22?style=flat-square&color=1f2937"/> <img src="https://img.shields.io/badge/-Payment%20Infrastructure-161b22?style=flat-square&color=1f2937"/> <img src="https://img.shields.io/badge/-Distributed%20Applications-161b22?style=flat-square&color=1f2937"/>
 
-mission: Design backend systems that remain
-  reliable, scalable and maintainable
-  as products continue to evolve.
-```
+**Currently Deepening**
+
+<img src="https://img.shields.io/badge/-Java-2563eb?style=flat-square"/> <img src="https://img.shields.io/badge/-Distributed%20Computing-2563eb?style=flat-square"/> <img src="https://img.shields.io/badge/-Algorithms%20%26%20Data%20Structures-2563eb?style=flat-square"/>
 
 </td>
 
@@ -177,31 +146,7 @@ production-grade architecture, scalability, and long-term maintainability.
 
 <div align="center">
 
-```text
-                           Engineering Ecosystem
-
-                                      Users
-                                        │
-                    ┌───────────────────┼───────────────────┐
-                    │                   │                   │
-                    ▼                   ▼                   ▼
-
-            ┌──────────────┐    ┌──────────────┐    ┌──────────────┐
-            │   ERRANDY    │    │  ATLASPAY    │    │    VENTRA    │
-            └──────┬───────┘    └──────┬───────┘    └──────┬───────┘
-                   │                   │                   │
-          Marketplace Core      Payment Engine       ERP / Commerce
-                   │                   │                   │
-              DDD + EIP           Double Ledger        DDD + EIP
-                   │                   │                   │
-              Domain Events         Idempotency       Domain Events
-                   │                   │                   │
-                Escrow            Reconciliation       gRPC SDK
-                   │                   │                   │
-              PostgreSQL           PostgreSQL           PostgreSQL
-                   │                   │                   │
-                 Redis            Background Jobs       Kafka
-```
+<img src="./assets/ecosystem-diagram.svg" width="100%" alt="Engineering ecosystem diagram"/>
 
 </div>
 
@@ -243,14 +188,14 @@ unique constraint on the ledger key, not just application logic.
 
 ### Features
 
-✔ Wallets (ledger-based)
-✔ Escrow (two-phase hold)
-✔ Provider matching
-✔ Payments
-✔ Organization accounts
-✔ Chat & notifications
-✔ Background processing
-✔ Real-time updates
+- ✔ Wallets (ledger-based)
+- ✔ Escrow (two-phase hold)
+- ✔ Provider matching
+- ✔ Payments
+- ✔ Organization accounts
+- ✔ Chat & notifications
+- ✔ Background processing
+- ✔ Real-time updates
 
 </td>
 
@@ -292,13 +237,13 @@ Cards, Limits, and Platform Access.
 
 ### Modules
 
-✔ Ledger
-✔ Transfers
-✔ Wallet engine
-✔ Reconciliation
-✔ Audit trail
-✔ Event store
-✔ Retry processing
+- ✔ Ledger
+- ✔ Transfers
+- ✔ Wallet engine
+- ✔ Reconciliation
+- ✔ Audit trail
+- ✔ Event store
+- ✔ Retry processing
 
 </td>
 
@@ -346,11 +291,11 @@ locking to prevent oversell.
 
 ### Status
 
-✔ Catalog — shipped, smoke-tested
-◐ Inventory — specced
-□ Sales / Orders — planned
-□ Fraud module — planned
-□ Public SDK launch
+- ✔ Catalog — shipped, smoke-tested
+- ◐ Inventory — specced
+- □ Sales / Orders — planned
+- □ Fraud module — planned
+- □ Public SDK launch
 
 </td>
 
@@ -394,7 +339,7 @@ locking to prevent oversell.
 
 <img
 height="185"
-src="https://github-readme-stats.vercel.app/api?username=olamidotunIY&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api?username=olamidotunIY&show_icons=true&hide_border=true&theme=tokyonight"/>
 
 </td>
 
@@ -460,42 +405,12 @@ src="./assets/pacman-contribution-graph-dark.svg"/>
 
 <div align="center">
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=ts"/>
-<img src="https://skillicons.dev/icons?i=js"/>
-<img src="https://skillicons.dev/icons?i=java"/>
-<img src="https://skillicons.dev/icons?i=python"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nestjs"/>
-<img src="https://skillicons.dev/icons?i=spring"/>
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-<img src="https://skillicons.dev/icons?i=graphql"/>
-<img src="https://skillicons.dev/icons?i=prisma"/>
-</p>
-
-### Data
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres"/>
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-<img src="https://skillicons.dev/icons?i=redis"/>
-</p>
-
-### Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker"/>
-<img src="https://skillicons.dev/icons?i=aws"/>
-<img src="https://skillicons.dev/icons?i=linux"/>
-<img src="https://skillicons.dev/icons?i=githubactions"/>
-<img src="https://skillicons.dev/icons?i=git"/>
-</p>
+| Category | Stack |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=ts"/> <img src="https://skillicons.dev/icons?i=js"/> <img src="https://skillicons.dev/icons?i=java"/> <img src="https://skillicons.dev/icons?i=python"/> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nestjs"/> <img src="https://skillicons.dev/icons?i=spring"/> <img src="https://skillicons.dev/icons?i=nodejs"/> <img src="https://skillicons.dev/icons?i=graphql"/> <img src="https://skillicons.dev/icons?i=prisma"/> |
+| **Data** | <img src="https://skillicons.dev/icons?i=postgres"/> <img src="https://skillicons.dev/icons?i=mongodb"/> <img src="https://skillicons.dev/icons?i=redis"/> |
+| **Infrastructure** | <img src="https://skillicons.dev/icons?i=docker"/> <img src="https://skillicons.dev/icons?i=aws"/> <img src="https://skillicons.dev/icons?i=linux"/> <img src="https://skillicons.dev/icons?i=githubactions"/> <img src="https://skillicons.dev/icons?i=git"/> |
 
 </div>
 
@@ -538,19 +453,7 @@ Data Structures            ██████████░░░░░░░�
 
 <div align="center">
 
-```text
-$ registry discover
-
-Scanning available endpoints...
-
-✓ github.service              ONLINE
-✓ linkedin.service            ONLINE
-✓ x.service                   ONLINE
-✓ email.service               ONLINE
-
-----------------------------------------------
-4 healthy services discovered.
-```
+<img src="./assets/terminal-service.svg" width="100%" alt="Service discovery terminal"/>
 
 <br/>
 
