@@ -58,7 +58,7 @@ Building resilient software through **Domain-Driven Design** and **Enterprise In
 
 <tr>
 
-<td width="50%" >
+<td width="20%" valign="top">
 
 ### Engineering Profile
 
