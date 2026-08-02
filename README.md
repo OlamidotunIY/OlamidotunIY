@@ -48,25 +48,28 @@ Building resilient software through **Domain-Driven Design** and **Enterprise In
 
 </div>
 
----
+<!-- --- -->
 
 <img src="./assets/divider.svg" width="100%"/>
 
 # 👨‍💻 About Me
 
-<table>
+<table style="width:100%; table-layout:fixed;">
 
 <tr>
 
-<td width="20%" valign="top">
+<td width="56%" valign="top">
 
 ### Engineering Profile
 
-| | |
-|---|---|
-| **Role** | Backend Engineer |
-| **Experience** | 3+ years |
-| **Mission** | Design backend systems that remain reliable, scalable, and maintainable as products evolve |
+**Role:** Backend Engineer
+
+<br/>
+
+**Experience:** 3+ years
+
+<br/>
+**Mission:** Design backend systems that remain reliable, scalable, and maintainable as products evolve.
 
 **Specialization**
 
@@ -78,9 +81,7 @@ Building resilient software through **Domain-Driven Design** and **Enterprise In
 <img src="https://img.shields.io/badge/-Java-2563eb?style=flat-square"/> <img src="https://img.shields.io/badge/-Distributed%20Computing-2563eb?style=flat-square"/> <img src="https://img.shields.io/badge/-Algorithms%20%26%20Data%20Structures-2563eb?style=flat-square"/>
 
 </td>
-
-<td width="50%" valign="top">
-
+<td width="44%" valign="top">
 ### What I Build
 
 - Payment & ledger systems
@@ -88,8 +89,7 @@ Building resilient software through **Domain-Driven Design** and **Enterprise In
 - Distributed applications
 - ERP / commerce infrastructure
 - Developer-facing SDKs
-
-<br/>
+  <br/>
 
 ### Philosophy
 
@@ -110,7 +110,7 @@ real payment processors run on.
 
 </table>
 
----
+<!-- --- -->
 
 <img src="./assets/divider.svg" width="100%"/>
 
@@ -118,12 +118,12 @@ real payment processors run on.
 
 <div align="center">
 
-| Mastering        | Building  |
-| ----------------- | --------- |
-| Java               | Errandy   |
-| Domain-Driven Design | AtlasPay  |
-| Enterprise Integration Patterns | Ventra    |
-| Algorithms & Data Structures | — |
+| Mastering                       | Building |
+| ------------------------------- | -------- |
+| Java                            | Errandy  |
+| Domain-Driven Design            | AtlasPay |
+| Enterprise Integration Patterns | Ventra   |
+| Algorithms & Data Structures    | —        |
 
 </div>
 
@@ -309,17 +309,17 @@ locking to prevent oversell.
 
 ## ⚙ Core Engineering Principles
 
-| Principle | Why |
-|-----------|-----|
-| Domain-Driven Design | Model business problems properly |
+| Principle                       | Why                                    |
+| ------------------------------- | -------------------------------------- |
+| Domain-Driven Design            | Model business problems properly       |
 | Enterprise Integration Patterns | Reliable communication between systems |
-| Event-Driven Architecture | Loose coupling & scalability |
-| Hexagonal / Clean Architecture | Long-term maintainability |
-| Idempotency by default | Financial systems can't double-process |
+| Event-Driven Architecture       | Loose coupling & scalability           |
+| Hexagonal / Clean Architecture  | Long-term maintainability              |
+| Idempotency by default          | Financial systems can't double-process |
 
 </div>
 
----
+<!-- --- -->
 
 <img src="./assets/divider.svg" width="100%"/>
 
@@ -363,7 +363,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=olamidotunIY
 
 </div>
 
----
+<!-- --- -->
 
 <img src="./assets/divider.svg" width="100%"/>
 
@@ -389,7 +389,7 @@ src="./assets/pacman-contribution-graph-dark.svg"/>
 
 <br/>
 
-*"Every green square represents another lesson learned."*
+_"Every green square represents another lesson learned."_
 
 </div>
 
@@ -405,12 +405,12 @@ src="./assets/pacman-contribution-graph-dark.svg"/>
 
 <div align="center">
 
-| Category | Stack |
-|---|---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=ts"/> <img src="https://skillicons.dev/icons?i=js"/> <img src="https://skillicons.dev/icons?i=java"/> <img src="https://skillicons.dev/icons?i=python"/> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nestjs"/> <img src="https://skillicons.dev/icons?i=spring"/> <img src="https://skillicons.dev/icons?i=nodejs"/> <img src="https://skillicons.dev/icons?i=graphql"/> <img src="https://skillicons.dev/icons?i=prisma"/> |
-| **Data** | <img src="https://skillicons.dev/icons?i=postgres"/> <img src="https://skillicons.dev/icons?i=mongodb"/> <img src="https://skillicons.dev/icons?i=redis"/> |
-| **Infrastructure** | <img src="https://skillicons.dev/icons?i=docker"/> <img src="https://skillicons.dev/icons?i=aws"/> <img src="https://skillicons.dev/icons?i=linux"/> <img src="https://skillicons.dev/icons?i=githubactions"/> <img src="https://skillicons.dev/icons?i=git"/> |
+| Category           | Stack                                                                                                                                                                                                                                                           |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages**      | <img src="https://skillicons.dev/icons?i=ts"/> <img src="https://skillicons.dev/icons?i=js"/> <img src="https://skillicons.dev/icons?i=java"/> <img src="https://skillicons.dev/icons?i=python"/>                                                               |
+| **Backend**        | <img src="https://skillicons.dev/icons?i=nestjs"/> <img src="https://skillicons.dev/icons?i=spring"/> <img src="https://skillicons.dev/icons?i=nodejs"/> <img src="https://skillicons.dev/icons?i=graphql"/> <img src="https://skillicons.dev/icons?i=prisma"/> |
+| **Data**           | <img src="https://skillicons.dev/icons?i=postgres"/> <img src="https://skillicons.dev/icons?i=mongodb"/> <img src="https://skillicons.dev/icons?i=redis"/>                                                                                                      |
+| **Infrastructure** | <img src="https://skillicons.dev/icons?i=docker"/> <img src="https://skillicons.dev/icons?i=aws"/> <img src="https://skillicons.dev/icons?i=linux"/> <img src="https://skillicons.dev/icons?i=githubactions"/> <img src="https://skillicons.dev/icons?i=git"/>  |
 
 </div>
 
@@ -493,11 +493,11 @@ Data Structures            ██████████░░░░░░░�
 
 <div align="center">
 
-| Building | Studying | Long-term Goal |
-|----------|----------|----------------|
-| **Errandy** | Java | Senior Backend Engineer |
-| **AtlasPay** | Distributed Systems | Fintech Infrastructure |
-| **Ventra** | Algorithms & Data Structures | Open Source Infrastructure |
+| Building     | Studying                     | Long-term Goal             |
+| ------------ | ---------------------------- | -------------------------- |
+| **Errandy**  | Java                         | Senior Backend Engineer    |
+| **AtlasPay** | Distributed Systems          | Fintech Infrastructure     |
+| **Ventra**   | Algorithms & Data Structures | Open Source Infrastructure |
 
 </div>
 
