@@ -69,6 +69,7 @@ Building resilient software through **Domain-Driven Design** and **Enterprise In
 **Experience:** 3+ years
 
 <br/>
+
 **Mission:** Design backend systems that remain reliable, scalable, and maintainable as products evolve.
 
 **Specialization**
@@ -81,7 +82,9 @@ Building resilient software through **Domain-Driven Design** and **Enterprise In
 <img src="https://img.shields.io/badge/-Java-2563eb?style=flat-square"/> <img src="https://img.shields.io/badge/-Distributed%20Computing-2563eb?style=flat-square"/> <img src="https://img.shields.io/badge/-Algorithms%20%26%20Data%20Structures-2563eb?style=flat-square"/>
 
 </td>
+
 <td width="44%" valign="top">
+
 ### What I Build
 
 - Payment & ledger systems
@@ -89,7 +92,8 @@ Building resilient software through **Domain-Driven Design** and **Enterprise In
 - Distributed applications
 - ERP / commerce infrastructure
 - Developer-facing SDKs
-  <br/>
+
+<br/>
 
 ### Philosophy
 
