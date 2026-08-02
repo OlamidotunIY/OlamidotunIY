@@ -1,88 +1,628 @@
-# Hi, I'm Dotun
+<!-- ========================================================================= -->
+<!--                               HERO SECTION                                -->
+<!-- ========================================================================= -->
 
-Full-Stack Software Engineer focused on building scalable web, mobile, and backend systems.
+<div align="center">
 
-I have 3+ years of experience shipping products across fintech, marketplace, social commerce, collaboration, and SaaS. My strongest work is in backend architecture, real-time systems, full-stack product delivery, and cloud-backed applications.
+<img src="./assets/header-animation.svg" width="100%" alt="Header"/>
 
-I work mostly with TypeScript and JavaScript across NestJS, Express, GraphQL, React, Next.js, React Native, PostgreSQL, MongoDB, Redis, and AWS.
+<br/>
 
-I’m also currently exploring machine learning and looking for practical ways to apply intelligent systems to real-world products.
+# Dotun
 
-[![Freelance](https://img.shields.io/badge/Freelance-Available-brightgreen?style=flat&logo=upwork)](mailto:olamidotun225@gmail.com)
+### Backend Engineer • Distributed Systems • Fintech Infrastructure
 
-## Key Strengths
+Building resilient software through **Domain-Driven Design** and **Enterprise Integration Patterns**.
 
-- Full-stack development with NestJS, Express, GraphQL, React, Next.js, and React Native
-- Backend architecture for modular APIs, real-time systems, and event-driven workflows
-- Real-time features using Redis, WebSockets, Socket.io, and subscriptions
-- Mobile development with React Native, Expo, push notifications, and API-driven flows
-- Cloud and infrastructure work with AWS, Docker, CI/CD, serverless systems, and containerized services
-- Strong product engineering across web, mobile, backend, and integrations
-- Early-stage machine learning exploration with Python, NumPy, Pandas, Scikit-learn, and Jupyter
+<p>
 
-## Socials
+<a href="https://github.com/olamidotunIY">
+<img src="https://komarev.com/ghpvc/?username=olamidotunIY&label=Profile%20Views&color=2563eb&style=flat-square"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iyanda-olamidotun-531399257)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/devpark1999)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ste_phannn)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Iyanda-Olamidotun)
+<a href="https://github.com/olamidotunIY?tab=followers">
+<img src="https://img.shields.io/github/followers/olamidotunIY?style=flat-square&color=2563eb"/>
+</a>
 
-## Tech Stack
+<a href="https://github.com/olamidotunIY?tab=repositories">
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/olamidotunIY&query=$.public_repos&label=Repositories&style=flat-square&color=0ea5e9"/>
+</a>
 
-### Core
+<img src="https://img.shields.io/badge/Open%20Source-Love-red?style=flat-square"/>
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Expo](https://img.shields.io/badge/Expo-1C1E24?style=flat&logo=expo&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+<img src="https://img.shields.io/badge/Freelance-Available-success?style=flat-square"/>
 
-### Learning
+</p>
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)
+</div>
 
-## Notable Work
+---
 
-- Logistics and marketplace systems with authentication, wallets, chat, payments, provider workflows, and real-time updates
-- Collaboration platforms with boards, channels, streams, tasks, sprints, uploads, and subscriptions
-- Social commerce backend systems with async pipelines, ranking logic, user flows, and monetization features
-- Cross-platform mobile products built with React Native and Expo for production use cases
+<img src="./assets/divider.svg" width="100%"/>
 
-## What I Care About
+# 💻 Backend Runtime
 
-- Clean architecture
-- Reliable backend systems
-- Real-time and event-driven features
-- Maintainable full-stack delivery
-- Product-focused engineering
-- Fast learning and continuous improvement
+<div align="center">
 
-## GitHub Stats
+```text
+$ sudo systemctl start dotun.service
 
-![](https://github-readme-stats.vercel.app/api?username=olamidotunIY&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=olamidotunIY&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=olamidotunIY&theme=tokyonight&hide_border=true&layout=compact)
+Initializing Runtime......................... ✓
+Loading TypeScript........................... ✓
+Loading Java................................. ✓
 
-## Trophies
+Starting NestJS.............................. ✓
+Loading Domain Layer......................... ✓
+Registering Aggregates....................... ✓
+Building Dependency Graph.................... ✓
 
-![](https://github-profile-trophy.vercel.app/?username=olamidotunIY&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8)
+Connecting PostgreSQL......................... ✓
+Connecting Redis.............................. ✓
+Registering Event Bus......................... ✓
+Starting Background Workers................... ✓
 
-## Profile Views
+---------------------------------------------------
 
-[![](https://visitcount.itsvg.in/api?id=olamidotunIY&icon=8&color=6)](https://visitcount.itsvg.in)
+Status             ONLINE
+Role               Backend Engineer
+Architecture       DDD • EIP • Event Driven
+Mission            Build systems that survive scale.
+Current Focus      Payment Infrastructure & Distributed Systems
+```
+
+</div>
+
+---
+
+<img src="./assets/divider.svg" width="100%"/>
+
+# 👨‍💻 About Me
+
+<table>
+
+<tr>
+
+<td width="56%" valign="top">
+
+### Engineering Profile
+
+```yaml
+name: Dotun
+experience: 3+ years
+
+specialization:
+  - Backend Architecture
+  - Domain Driven Design
+  - Enterprise Integration Patterns
+  - Event Driven Systems
+  - Payment Infrastructure
+  - Distributed Applications
+
+currently_learning:
+  - Java (deepening)
+  - Distributed Computing
+  - Algorithms & Data Structures
+
+mission: Design backend systems that remain
+  reliable, scalable and maintainable
+  as products continue to evolve.
+```
+
+</td>
+
+<td width="44%" valign="top">
+
+### What I Build
+
+- Payment & ledger systems
+- Event-driven marketplaces
+- Distributed applications
+- ERP / commerce infrastructure
+- Developer-facing SDKs
+
+<br/>
+
+### Philosophy
+
+> Software should survive growth.
+
+I solve hard engineering problems through
+architecture, not temporary fixes — modeling
+the domain properly before writing a line of
+infrastructure code.
+
+Right now that means going deep on Java,
+hexagonal architecture, and the patterns
+real payment processors run on.
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<img src="./assets/divider.svg" width="100%"/>
+
+# 🚀 Current Focus
+
+<div align="center">
+
+| Mastering        | Building  |
+| ----------------- | --------- |
+| Java               | Errandy   |
+| Domain-Driven Design | AtlasPay  |
+| Enterprise Integration Patterns | Ventra    |
+| Algorithms & Data Structures | — |
+
+</div>
+
+<br/>
+
+> **"Good developers write code. Great engineers design systems."**
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<!-- ========================================================================= -->
+<!--                          FEATURED PROJECTS                                -->
+<!-- ========================================================================= -->
+
+# 🏗 Engineering Showcase
+
+Instead of building isolated applications, I design systems that demonstrate
+production-grade architecture, scalability, and long-term maintainability.
+
+<br/>
+
+<div align="center">
+
+```text
+                           Engineering Ecosystem
+
+                                      Users
+                                        │
+                    ┌───────────────────┼───────────────────┐
+                    │                   │                   │
+                    ▼                   ▼                   ▼
+
+            ┌──────────────┐    ┌──────────────┐    ┌──────────────┐
+            │   ERRANDY    │    │  ATLASPAY    │    │    VENTRA    │
+            └──────┬───────┘    └──────┬───────┘    └──────┬───────┘
+                   │                   │                   │
+          Marketplace Core      Payment Engine       ERP / Commerce
+                   │                   │                   │
+              DDD + EIP           Double Ledger        DDD + EIP
+                   │                   │                   │
+              Domain Events         Idempotency       Domain Events
+                   │                   │                   │
+                Escrow            Reconciliation       gRPC SDK
+                   │                   │                   │
+              PostgreSQL           PostgreSQL           PostgreSQL
+                   │                   │                   │
+                 Redis            Background Jobs       Kafka
+```
+
+</div>
+
+---
+
+## 🚀 Errandy
+
+> **Service marketplace built around Domain-Driven Design and Enterprise Integration Patterns.**
+
+<table>
+
+<tr>
+
+<td width="65%" valign="top">
+
+### Overview
+
+A NestJS + GraphQL + Prisma marketplace connecting clients and providers for
+errands and tasks — currently undergoing a full DDD/EIP refactor across
+bounded contexts, with **Wallet** and **Escrow** as the primary focus.
+
+The wallet is ledger-only: an append-only `LedgerEntry` table is the source
+of truth, with a `WalletBalanceSnapshot` as a read-side cache. Escrow runs a
+two-phase hold flow. Idempotency is enforced at the database layer via a
+unique constraint on the ledger key, not just application logic.
+
+### Architecture
+
+- Domain-Driven Design (DDD)
+- Enterprise Integration Patterns (EIP)
+- Event-driven architecture, domain events
+- Idempotent, append-only ledger
+- BullMQ background workers + retry queues
+- CQRS-flavored read/write separation
+
+</td>
+
+<td width="35%" valign="top">
+
+### Features
+
+✔ Wallets (ledger-based)
+✔ Escrow (two-phase hold)
+✔ Provider matching
+✔ Payments
+✔ Organization accounts
+✔ Chat & notifications
+✔ Background processing
+✔ Real-time updates
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## 💳 AtlasPay
+
+> **Self-hosted payment infrastructure focused on financial correctness, not just payment processing.**
+
+<table>
+
+<tr>
+
+<td width="65%" valign="top">
+
+### Goal
+
+A Java 21 / Spring Boot platform, built on hexagonal architecture, modeled
+after systems like Stripe and Paystack. Instead of wrapping an existing
+gateway, it recreates the core patterns those systems run on internally —
+across seven domains: Identity & Onboarding, Accounts, Ledger, Transfers,
+Cards, Limits, and Platform Access.
+
+### Architecture
+
+- Domain-Driven Design, hexagonal architecture
+- Double-entry ledger + reconciliation
+- Idempotent transaction pipelines
+- Multi-module Gradle (Kotlin DSL)
+- Event-driven processing, domain events
+
+</td>
+
+<td width="35%" valign="top">
+
+### Modules
+
+✔ Ledger
+✔ Transfers
+✔ Wallet engine
+✔ Reconciliation
+✔ Audit trail
+✔ Event store
+✔ Retry processing
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## 🧱 Ventra
+
+> **Open-source ERP / commerce platform, built to be run — not just imported.**
+
+<table>
+
+<tr>
+
+<td width="65%" valign="top">
+
+### Vision
+
+A Java 21 / Spring Boot ERP and commerce platform spanning 14 business
+domains, architected as seven independent modules (core, persistence,
+event bus, fraud, gRPC API, and the runnable app). Client SDKs connect over
+gRPC — adopters run `ventra-app` as a long-lived service, the same way
+they'd run Postgres or Kafka, rather than embedding the whole thing as a
+library.
+
+The `catalog` domain is fully implemented end-to-end, with Flyway
+migrations and a booting app verified by smoke tests. `inventory` is
+specced around an append-only `StockLedgerEntry` ledger with pessimistic
+locking to prevent oversell.
+
+### Architecture
+
+- Domain-Driven Design across 14 business domains
+- Multi-module Gradle (Kotlin DSL)
+- gRPC-first SDK architecture
+- Pluggable event bus (in-memory / Kafka)
+- Append-only ledgers for inventory & stock
+
+</td>
+
+<td width="35%" valign="top">
+
+### Status
+
+✔ Catalog — shipped, smoke-tested
+◐ Inventory — specced
+□ Sales / Orders — planned
+□ Fraud module — planned
+□ Public SDK launch
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+## ⚙ Core Engineering Principles
+
+| Principle | Why |
+|-----------|-----|
+| Domain-Driven Design | Model business problems properly |
+| Enterprise Integration Patterns | Reliable communication between systems |
+| Event-Driven Architecture | Loose coupling & scalability |
+| Hexagonal / Clean Architecture | Long-term maintainability |
+| Idempotency by default | Financial systems can't double-process |
+
+</div>
+
+---
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<!-- ========================================================================= -->
+<!--                         ENGINEERING DASHBOARD                             -->
+<!-- ========================================================================= -->
+
+# 📊 Engineering Dashboard
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center" width="50%">
+
+<img
+height="185"
+src="https://github-readme-stats.vercel.app/api?username=olamidotunIY&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"/>
+
+</td>
+
+<td align="center" width="50%">
+
+<img
+height="185"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=olamidotunIY&layout=compact&hide_border=true&theme=tokyonight"/>
+
+</td>
+
+</tr>
+
+</table>
+
+<br/>
+
+<img
+width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=olamidotunIY&bg_color=0d1117&color=58a6ff&line=3b82f6&point=f8fafc&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+
+</div>
+
+---
+
+<img src="./assets/divider.svg" width="100%"/>
+
+# 👾 Contribution Activity
+
+<div align="center">
+
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="./assets/pacman-contribution-graph-dark.svg"/>
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="./assets/pacman-contribution-graph.svg"/>
+
+<img
+width="100%"
+src="./assets/pacman-contribution-graph-dark.svg"/>
+
+</picture>
+
+<br/>
+
+*"Every green square represents another lesson learned."*
+
+</div>
+
+---
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<!-- ========================================================================= -->
+<!--                              SKILLS                                      -->
+<!-- ========================================================================= -->
+
+# ⚙ Engineering Stack
+
+<div align="center">
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=ts"/>
+<img src="https://skillicons.dev/icons?i=js"/>
+<img src="https://skillicons.dev/icons?i=java"/>
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nestjs"/>
+<img src="https://skillicons.dev/icons?i=spring"/>
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+<img src="https://skillicons.dev/icons?i=graphql"/>
+<img src="https://skillicons.dev/icons?i=prisma"/>
+</p>
+
+### Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres"/>
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+<img src="https://skillicons.dev/icons?i=redis"/>
+</p>
+
+### Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker"/>
+<img src="https://skillicons.dev/icons?i=aws"/>
+<img src="https://skillicons.dev/icons?i=linux"/>
+<img src="https://skillicons.dev/icons?i=githubactions"/>
+<img src="https://skillicons.dev/icons?i=git"/>
+</p>
+
+</div>
+
+---
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<!-- ========================================================================= -->
+<!--                           LEARNING ROADMAP                               -->
+<!-- ========================================================================= -->
+
+# 📈 Engineering Roadmap
+
+```text
+Backend Engineering        ████████████████████ 100%
+Domain Driven Design       ████████████████████ 100%
+Event Driven Systems       ███████████████████░ 95%
+System Design              ██████████████████░░ 90%
+Cloud Infrastructure       ████████████████░░░░ 80%
+Java                       ███████████░░░░░░░░░ 55%
+Algorithms                 ██████████░░░░░░░░░░ 50%
+Data Structures            ██████████░░░░░░░░░░ 50%
+```
+
+---
+
+> **"Software should outlive frameworks.**
+>
+> **Architecture should outlive developers.**
+>
+> **Great systems are designed for change — not rewritten because of it."**
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<!-- ========================================================================= -->
+<!--                          SERVICE DISCOVERY                               -->
+<!-- ========================================================================= -->
+
+# 🌐 Service Discovery
+
+<div align="center">
+
+```text
+$ registry discover
+
+Scanning available endpoints...
+
+✓ github.service              ONLINE
+✓ linkedin.service            ONLINE
+✓ x.service                   ONLINE
+✓ email.service               ONLINE
+
+----------------------------------------------
+4 healthy services discovered.
+```
+
+<br/>
+
+<a href="https://github.com/olamidotunIY">
+<img src="https://img.shields.io/badge/github.service-ONLINE-22c55e?style=for-the-badge&logo=github&logoColor=white&labelColor=111827"/>
+</a>
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/iyanda-olamidotun-531399257">
+<img src="https://img.shields.io/badge/linkedin.service-ONLINE-2563eb?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827"/>
+</a>
+
+<br/><br/>
+
+<a href="https://x.com/devpark1999">
+<img src="https://img.shields.io/badge/x.service-ONLINE-black?style=for-the-badge&logo=x&logoColor=white&labelColor=111827"/>
+</a>
+
+<br/><br/>
+
+<a href="mailto:olamidotun225@gmail.com">
+<img src="https://img.shields.io/badge/email.service-ONLINE-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827"/>
+</a>
+
+</div>
+
+---
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<!-- ========================================================================= -->
+<!--                         CURRENT OBJECTIVES                               -->
+<!-- ========================================================================= -->
+
+# 🎯 Current Objectives
+
+<div align="center">
+
+| Building | Studying | Long-term Goal |
+|----------|----------|----------------|
+| **Errandy** | Java | Senior Backend Engineer |
+| **AtlasPay** | Distributed Systems | Fintech Infrastructure |
+| **Ventra** | Algorithms & Data Structures | Open Source Infrastructure |
+
+</div>
+
+---
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<!-- ========================================================================= -->
+<!--                                FOOTER                                    -->
+<!-- ========================================================================= -->
+
+<div align="center">
+
+<img src="./assets/footer.svg" width="100%"/>
+
+<br/>
+
+### Thanks for stopping by 👋
+
+If you're interested in backend engineering, payment infrastructure,
+Domain-Driven Design, or Enterprise Integration Patterns, I'd love to connect.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,30:1e293b,70:2563eb,100:3b82f6"/>
+
+</div>
+
+<!-- ========================================================================= -->
+<!--                                END                                       -->
+<!-- ========================================================================= -->
