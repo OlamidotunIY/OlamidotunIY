@@ -1,12 +1,10 @@
-<!-- ========================================================================= -->
+﻿<!-- ========================================================================= -->
 <!--                               HERO SECTION                                -->
 <!-- ========================================================================= -->
 
 <div align="center">
 
 <img src="./assets/header-animation.svg" width="100%" alt="Header"/>
-
-<br/>
 
 # Dotun
 
@@ -36,21 +34,11 @@ Building resilient software through **Domain-Driven Design** and **Enterprise In
 
 </div>
 
----
-
 <img src="./assets/divider.svg" width="100%"/>
 
-# 💻 Backend Runtime
-
-<div align="center">
-
-<img src="./assets/terminal-runtime.svg" width="100%" alt="Backend runtime terminal"/>
-
-</div>
-
-<!-- --- -->
-
-<img src="./assets/divider.svg" width="100%"/>
+<!-- ========================================================================= -->
+<!--                               ABOUT ME                                    -->
+<!-- ========================================================================= -->
 
 # 👨‍💻 About Me
 
@@ -64,11 +52,7 @@ Building resilient software through **Domain-Driven Design** and **Enterprise In
 
 **Role:** Backend Engineer
 
-<br/>
-
 **Experience:** 3+ years
-
-<br/>
 
 **Mission:** Design backend systems that remain reliable, scalable, and maintainable as products evolve.
 
@@ -93,8 +77,6 @@ Building resilient software through **Domain-Driven Design** and **Enterprise In
 - ERP / commerce infrastructure
 - Developer-facing SDKs
 
-<br/>
-
 ### Philosophy
 
 > Software should survive growth.
@@ -114,27 +96,6 @@ real payment processors run on.
 
 </table>
 
-<!-- --- -->
-
-<img src="./assets/divider.svg" width="100%"/>
-
-# 🚀 Current Focus
-
-<div align="center">
-
-| Mastering                       | Building |
-| ------------------------------- | -------- |
-| Java                            | Errandy  |
-| Domain-Driven Design            | AtlasPay |
-| Enterprise Integration Patterns | Ventra   |
-| Algorithms & Data Structures    | —        |
-
-</div>
-
-<br/>
-
-> **"Good developers write code. Great engineers design systems."**
-
 <img src="./assets/divider.svg" width="100%"/>
 
 <!-- ========================================================================= -->
@@ -145,8 +106,6 @@ real payment processors run on.
 
 Instead of building isolated applications, I design systems that demonstrate
 production-grade architecture, scalability, and long-term maintainability.
-
-<br/>
 
 <div align="center">
 
@@ -323,7 +282,45 @@ locking to prevent oversell.
 
 </div>
 
-<!-- --- -->
+<img src="./assets/divider.svg" width="100%"/>
+
+<!-- ========================================================================= -->
+<!--                            CURRENT FOCUS                                  -->
+<!-- ========================================================================= -->
+
+# 🚀 Current Focus
+
+<div align="center">
+
+| Mastering                       | Building |
+| ------------------------------- | -------- |
+| Java                            | Errandy  |
+| Domain-Driven Design            | AtlasPay |
+| Enterprise Integration Patterns | Ventra   |
+| Algorithms & Data Structures    | —        |
+
+</div>
+
+> **"Good developers write code. Great engineers design systems."**
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<!-- ========================================================================= -->
+<!--                           ENGINEERING STACK                               -->
+<!-- ========================================================================= -->
+
+# ⚙ Engineering Stack
+
+<div align="center">
+
+| Category           | Stack                                                                                                                                                                                                                                                           |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages**      | <img src="https://skillicons.dev/icons?i=ts"/> <img src="https://skillicons.dev/icons?i=js"/> <img src="https://skillicons.dev/icons?i=java"/> <img src="https://skillicons.dev/icons?i=python"/>                                                               |
+| **Backend**        | <img src="https://skillicons.dev/icons?i=nestjs"/> <img src="https://skillicons.dev/icons?i=spring"/> <img src="https://skillicons.dev/icons?i=nodejs"/> <img src="https://skillicons.dev/icons?i=graphql"/> <img src="https://skillicons.dev/icons?i=prisma"/> |
+| **Data**           | <img src="https://skillicons.dev/icons?i=postgres"/> <img src="https://skillicons.dev/icons?i=mongodb"/> <img src="https://skillicons.dev/icons?i=redis"/>                                                                                                      |
+| **Infrastructure** | <img src="https://skillicons.dev/icons?i=docker"/> <img src="https://skillicons.dev/icons?i=aws"/> <img src="https://skillicons.dev/icons?i=linux"/> <img src="https://skillicons.dev/icons?i=githubactions"/> <img src="https://skillicons.dev/icons?i=git"/>  |
+
+</div>
 
 <img src="./assets/divider.svg" width="100%"/>
 
@@ -359,21 +356,9 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=olamidotunIY
 
 </table>
 
-<br/>
-
 <img
 width="100%"
 src="https://github-readme-activity-graph.vercel.app/graph?username=olamidotunIY&bg_color=0d1117&color=58a6ff&line=3b82f6&point=f8fafc&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
-
-</div>
-
-<!-- --- -->
-
-<img src="./assets/divider.svg" width="100%"/>
-
-# 👾 Contribution Activity
-
-<div align="center">
 
 <picture>
 
@@ -391,61 +376,9 @@ src="./assets/pacman-contribution-graph-dark.svg"/>
 
 </picture>
 
-<br/>
-
 _"Every green square represents another lesson learned."_
 
 </div>
-
----
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<!-- ========================================================================= -->
-<!--                              SKILLS                                      -->
-<!-- ========================================================================= -->
-
-# ⚙ Engineering Stack
-
-<div align="center">
-
-| Category           | Stack                                                                                                                                                                                                                                                           |
-| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Languages**      | <img src="https://skillicons.dev/icons?i=ts"/> <img src="https://skillicons.dev/icons?i=js"/> <img src="https://skillicons.dev/icons?i=java"/> <img src="https://skillicons.dev/icons?i=python"/>                                                               |
-| **Backend**        | <img src="https://skillicons.dev/icons?i=nestjs"/> <img src="https://skillicons.dev/icons?i=spring"/> <img src="https://skillicons.dev/icons?i=nodejs"/> <img src="https://skillicons.dev/icons?i=graphql"/> <img src="https://skillicons.dev/icons?i=prisma"/> |
-| **Data**           | <img src="https://skillicons.dev/icons?i=postgres"/> <img src="https://skillicons.dev/icons?i=mongodb"/> <img src="https://skillicons.dev/icons?i=redis"/>                                                                                                      |
-| **Infrastructure** | <img src="https://skillicons.dev/icons?i=docker"/> <img src="https://skillicons.dev/icons?i=aws"/> <img src="https://skillicons.dev/icons?i=linux"/> <img src="https://skillicons.dev/icons?i=githubactions"/> <img src="https://skillicons.dev/icons?i=git"/>  |
-
-</div>
-
----
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<!-- ========================================================================= -->
-<!--                           LEARNING ROADMAP                               -->
-<!-- ========================================================================= -->
-
-# 📈 Engineering Roadmap
-
-```text
-Backend Engineering        ████████████████████ 100%
-Domain Driven Design       ████████████████████ 100%
-Event Driven Systems       ███████████████████░ 95%
-System Design              ██████████████████░░ 90%
-Cloud Infrastructure       ████████████████░░░░ 80%
-Java                       ███████████░░░░░░░░░ 55%
-Algorithms                 ██████████░░░░░░░░░░ 50%
-Data Structures            ██████████░░░░░░░░░░ 50%
-```
-
----
-
-> **"Software should outlive frameworks.**
->
-> **Architecture should outlive developers.**
->
-> **Great systems are designed for change — not rewritten because of it."**
 
 <img src="./assets/divider.svg" width="100%"/>
 
@@ -459,7 +392,11 @@ Data Structures            ██████████░░░░░░░�
 
 <img src="./assets/terminal-service.svg" width="100%" alt="Service discovery terminal"/>
 
-<br/>
+<a href="https://iyandadotun.name.ng">
+<img src="https://img.shields.io/badge/portfolio.service-ONLINE-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=111827"/>
+</a>
+
+<br/><br/>
 
 <a href="https://github.com/olamidotunIY">
 <img src="https://img.shields.io/badge/github.service-ONLINE-22c55e?style=for-the-badge&logo=github&logoColor=white&labelColor=111827"/>
@@ -485,28 +422,6 @@ Data Structures            ██████████░░░░░░░�
 
 </div>
 
----
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<!-- ========================================================================= -->
-<!--                         CURRENT OBJECTIVES                               -->
-<!-- ========================================================================= -->
-
-# 🎯 Current Objectives
-
-<div align="center">
-
-| Building     | Studying                     | Long-term Goal             |
-| ------------ | ---------------------------- | -------------------------- |
-| **Errandy**  | Java                         | Senior Backend Engineer    |
-| **AtlasPay** | Distributed Systems          | Fintech Infrastructure     |
-| **Ventra**   | Algorithms & Data Structures | Open Source Infrastructure |
-
-</div>
-
----
-
 <img src="./assets/divider.svg" width="100%"/>
 
 <!-- ========================================================================= -->
@@ -517,14 +432,16 @@ Data Structures            ██████████░░░░░░░�
 
 <img src="./assets/footer.svg" width="100%"/>
 
-<br/>
-
 ### Thanks for stopping by 👋
 
 If you're interested in backend engineering, payment infrastructure,
 Domain-Driven Design, or Enterprise Integration Patterns, I'd love to connect.
 
-<br/>
+> **"Software should outlive frameworks.**
+>
+> **Architecture should outlive developers.**
+>
+> **Great systems are designed for change — not rewritten because of it."**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,30:1e293b,70:2563eb,100:3b82f6"/>
 
