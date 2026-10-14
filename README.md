@@ -1,107 +1,70 @@
-# Iyanda Dotun
+<p align="center">
+  <img src="./assets/header-animation.svg" width="100%" alt="Iyanda Dotun — backend engineer and full-stack builder" />
+</p>
 
-### Software Engineer · Backend & Full-Stack
+<p align="center">
+  <strong>I build dependable systems and the products people use to access them.</strong><br />
+  Java &amp; Spring Boot · TypeScript &amp; NestJS · React · React Native · Flutter
+</p>
 
-I build software from APIs and data models to web interfaces and mobile releases. I have **6 years of professional experience**, beginning in August 2020, across freelance consulting, client delivery, and product engineering.
+<p align="center">
+<a href="https://iyandadotun.name.ng"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge" alt="Visit my portfolio" /></a>
+<a href="https://www.linkedin.com/in/iyanda-olamidotun-531399257"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect with me on LinkedIn" /></a>
+<a href="mailto:olamidotun225@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-0F172A?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email me" /></a>
+</p>
 
-My work includes real-time collaboration, social video, service marketplaces, payment integrations, and retail operations. My main backend tools are **Java, Spring Boot, TypeScript, Node.js, and NestJS**, with product delivery across **React, Next.js, React Native, and Flutter**.
+I'm Iyanda, a software engineer in Ibadan, Nigeria. My work spans backend architecture, web applications, and mobile products. I especially enjoy engineering the paths that are easy to overlook: a payment retried twice, a message recovered after reconnecting, or two requests competing to update the same balance.
 
-Based in **Ibadan, Nigeria**. Open to remote work and relocation.
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-[Portfolio](https://iyandadotun.name.ng) · [LinkedIn](https://www.linkedin.com/in/iyanda-olamidotun-531399257) · [Email](mailto:olamidotun225@gmail.com)
+## Featured builds
 
-## Selected work
+### AtlasHub · Modular business operating system
 
-### Real-time collaboration — Dialects, for Sammir
+An API-first platform for businesses, designed around **payments, commerce, HR, and logistics**. Its shared Platform module handles capabilities such as identity, organizations, access control, and compliance; the business products build on top of it.
 
-**Full-Stack Developer & Consultant · Freelance · August 2020–June 2024**
+- **Reliable financial workflows:** payment accounts, split payments, and a double-entry ledger with idempotent references, pessimistic locking, and auditable balance changes.
+- **Clear domain boundaries:** Java 25, Spring Boot, DDD, CQRS, and Kafka-backed integration with a transactional outbox, retries, and replay.
+- **Product surfaces:** a React operations dashboard and a Flutter companion app for business workflows, backed by secure, multi-tenant APIs.
+- **Operational discipline:** automated module tests, observability, and Azure/K3s infrastructure deployed on demand to control testing costs.
 
-- Built the web frontend, backend, and React Native app for a project-management product with team messaging.
-- Delivered GraphQL subscription messaging with observed production delivery times of **100 ms to under 300 ms**, persistent message storage, and automatic recovery of missed messages after reconnection.
-- Kept web and mobile data current through subscription-driven cache and state updates; enforced workspace membership and permissions on the backend and reflected them in the clients.
-- Achieved **1 second to under 2 seconds LCP** in real-user measurements and ran backend, web, and React Native tests in CI.
+[Explore the AtlasHub backend →](https://github.com/OlamidotunIY/atlashub_backend)
 
-### Client products — Smarthive
+### Errandy · Local services marketplace
 
-**Lead Engineer · June 2024–August 2025**
+A cross-platform marketplace connecting clients, independent providers, and organizations for errands and scheduled services. I built the React web app, React Native/Expo mobile app, and modular NestJS/GraphQL backend.
 
-- Led and mentored **2–3 developers and interns** at a software consultancy through technical planning, task assignment, code reviews, and delivery.
-- Built a cryptocurrency and gift-card exchange backend and React Native/Expo app, released on **Google Play and the Apple App Store**, supporting **200+ completed transactions** during my engagement.
-- Integrated Paystack with server-side payment verification, webhook signature validation, and duplicate-payment protection.
-- Built and deployed a React retail ERP for **1–5 staff members**, managing **100+ SKUs** and producing stock-reconciliation results in **under one minute**.
-- Ran automated backend, web, and mobile tests in CI.
+- **Marketplace flow:** service discovery, job posting, bids, assignment, completion, ratings, and provider verification.
+- **Live collaboration:** GraphQL subscriptions for chat, with message and read states across clients.
+- **Money movement:** Paystack integration, wallets and escrow, append-only ledger records, idempotent processing, and BullMQ jobs for retries and reconciliation.
 
-### Social video — Tezda / PingTop
+[Explore the Errandy backend →](https://github.com/OlamidotunIY/errandy_backend)
 
-**Senior Backend Developer · September 2025–April 2026**
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-- Worked in a seven-person engineering team on a platform with approximately **2 million registered users** during my engagement.
-- Owned backend work across authentication, live-stream initiation, social interactions, and video scoring.
-- Reduced interaction response times from **3–5 seconds to under 500 ms** through event-driven processing, caching, and data-access improvements.
+## How I approach engineering
 
-### Services marketplace — UVS
-
-**Software Engineer · Freelance · April–May 2026**
-
-- Independently built the NestJS/GraphQL backend, Flutter client, and Next.js admin application across bookings, contracts, payments, wallets, chat, and onboarding.
-- Handed over a product supporting approximately **200 users, 15 businesses, and 180+ transactions**, with key backend read and write operations below **500 ms**.
-
-## Featured projects
-
-### [AtlasHub — Modular Business Platform](https://github.com/OlamidotunIY/atlashub_backend)
-
-**May 2026–present · Independent project**
-
-**Java 25 · Spring Boot 3.5 · MySQL · Redis · Kafka · Gradle**
-
-AtlasHub brings together business capabilities for **payments, commerce, HR, and logistics**. Its internal Platform module provides shared capabilities for the products. I am implementing the foundation using DDD, hexagonal architecture, CQRS, and event-driven integration.
-
-The implemented foundations include:
-
-- **Identity and access:** organization/accounts management, JWT authentication, Redis-backed sessions and token revocation, trusted devices, organization switching, RBAC, and an API-key lifecycle.
-- **Payment accounts and ledger:** balanced debit/credit validation, idempotent transaction references, pessimistic account locking, account-state controls, and balance snapshots.
-- **Kafka event infrastructure:** transactional outbox persistence, consumer-delivery tracking, replay support, pending-event recovery, scheduled retries, and distributed locking.
-- **Business compliance:** a five-step workflow covering company details, contacts, owners/officers, documents, service agreements, and provider verification outcomes.
-- **Infrastructure and observability:** Terraform, Azure/K3s, Kubernetes manifests, MySQL, Redis, Kafka, Prometheus, Grafana, and Tempo. I start and stop deployments manually to control testing costs.
-- **Automated test foundations:** Spring Boot Test, Testcontainers for MySQL, and WireMock.
-
-Payments, commerce, HR, and logistics describe AtlasHub's scope; individual capabilities remain at different stages of development.
-
-### [Errandy — Service Marketplace](https://github.com/OlamidotunIY/errandy_backend)
-
-**NestJS · GraphQL · Prisma · Redis · BullMQ**
-
-Errandy connects clients and providers for errands and tasks. Current engineering work focuses on a DDD refactor of wallet and escrow workflows.
-
-- Uses append-only ledger records as the source of truth, with balance snapshots for reads.
-- Enforces transaction idempotency at the database layer.
-- Coordinates background processing with BullMQ workers and retry queues.
-- Separates business contexts around marketplace workflows, wallets, and escrow.
-
-## Technology
-
-| Area | Tools I work with |
+| Design for | In practice |
 | --- | --- |
-| Languages | Java, TypeScript, JavaScript, Dart |
-| Backend | Spring Boot, Node.js, NestJS, Express, GraphQL, REST, WebSockets |
-| Web | React, Next.js |
-| Mobile | React Native, Expo, Flutter |
-| Data & messaging | MySQL, PostgreSQL, MongoDB, DynamoDB, Redis, Kafka, Kinesis, Prisma |
-| Cloud & delivery | AWS, Azure, Docker, Kubernetes, Terraform, GitHub Actions |
-| Testing & observability | Spring Boot Test, Testcontainers, WireMock, Prometheus, Grafana, Tempo |
+| **The domain** | Model business rules and permissions explicitly, with boundaries that can evolve as the product grows. |
+| **The failure path** | Make retries, concurrency, recovery, and auditability part of the design—not afterthoughts. |
+| **The whole product** | Connect sound APIs to usable web and mobile experiences, then test the paths that matter. |
 
-## How I work
+## Tools I reach for
 
-I take responsibility for the full path from a business requirement to a working release: data and API design, implementation, testing, deployment, and handover.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,nestjs,graphql,react,nextjs,flutter,mysql,mongodb,redis,docker,aws,azure&amp;perline=15" alt="Java, Spring Boot, TypeScript, Node.js, NestJS, GraphQL, React, Next.js, Flutter, MySQL, MongoDB, Redis, Docker, AWS, and Azure" />
+</p>
 
-For backend work, I pay particular attention to permissions, duplicate processing, concurrency, and recovery after failure. On web and mobile, I focus on responsive interfaces, consistent state, and performance that can be measured in use.
+**Also in the toolkit:** React Native/Expo, Kafka, PostgreSQL, Kubernetes, Terraform, Testcontainers, and observability with Prometheus, Grafana, and Tempo.
 
-I also enjoy helping other developers through code reviews, technical planning, and practical mentoring.
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## Let's connect
+<p align="center">
+  I share more of the work and the thinking behind it at <a href="https://iyandadotun.name.ng">iyandadotun.name.ng</a>.<br />
+  If you're building something where reliability and product quality both matter, <a href="mailto:olamidotun225@gmail.com">let's talk</a>.
+</p>
 
-I'm interested primarily in **backend and full-stack engineering roles**, bringing experience across web and mobile product delivery.
-
-- [Portfolio — iyandadotun.name.ng](https://iyandadotun.name.ng)
-- [LinkedIn — Iyanda Dotun](https://www.linkedin.com/in/iyanda-olamidotun-531399257)
-- [Email — olamidotun225@gmail.com](mailto:olamidotun225@gmail.com)
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="Build for the failure path. Keep the experience simple." />
+</p>

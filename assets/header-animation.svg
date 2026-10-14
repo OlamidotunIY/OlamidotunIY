@@ -37,13 +37,13 @@
   <!-- Main Name Text -->
   <g filter="url(#textShadow)">
     <text x="450" y="75" text-anchor="middle" font-family="'Segoe UI', 'SF Pro Display', -apple-system, sans-serif" font-size="48" font-weight="700" fill="url(#premiumGradient)" letter-spacing="3">
-      DOTUN IYANDA
+      IYANDA DOTUN
     </text>
   </g>
 
   <!-- Subtitle -->
   <text x="450" y="115" text-anchor="middle" font-family="'Segoe UI', 'SF Pro Display', -apple-system, sans-serif" font-size="16" fill="#9ca3af" letter-spacing="3">
-    BACKEND ENGINEER  •  DISTRIBUTED SYSTEMS  •  FINTECH INFRASTRUCTURE
+    BACKEND ENGINEER  •  FULL-STACK BUILDER  •  RELIABLE SYSTEMS
   </text>
 
   <!-- Decorative Elements -->
